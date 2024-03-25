@@ -13,6 +13,6 @@ VM4
 VM5
 ```
 
-If using domain credentials then use the format `user@domain.example`
+- If using domain credentials then use the format `user@domain.example`
 
-Create folder `C:\cvscripts` and run the script from this folder
+- Create folder `C:\cvscripts` and run the script from this folder
